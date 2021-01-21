@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/kris57
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://xn--x6jc8prcye8dub9b1397djpzb.ml
+  * I am kris57 (https://keybase.io/kris57) on keybase.
+  * I have a public key ASCCRFtGhDDlGEu8mG66E0RWpNkzRuR1O1ipmW6oMafiRgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012082445b468430e5184bbc986eba134456a4d93346e4753b58a9996ea831a7e2460a",
+      "host": "keybase.io",
+      "kid": "012082445b468430e5184bbc986eba134456a4d93346e4753b58a9996ea831a7e2460a",
+      "uid": "54c49edd6a2a863b78c0c4fe99afab19",
+      "username": "kris57"
+    },
+    "merkle_root": {
+      "ctime": 1611224624,
+      "hash": "7d447fcd9a1a5accaa61e61461d1dbaff172771a4f0d413043d71307b1cf5baffec3c48620627e1de6d91a1f341856c1efbb055dccc3c459ede2c9370fc1a591",
+      "hash_meta": "515dbf11e6285fe99db5d3e1c9cb71efa720f7fb2720456c920c9922b0cc22cd",
+      "seqno": 18857795
+    },
+    "service": {
+      "entropy": "Osa+xxe38UflR362cM0T0EpZ",
+      "hostname": "xn--x6jc8prcye8dub9b1397djpzb.ml",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.5.0"
+  },
+  "ctime": 1611224655,
+  "expire_in": 504576000,
+  "prev": "6a1c45aa886548baabb684292b01c681a1d1e4af6ad738d8952030b9f31cf8db",
+  "seqno": 150,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEggkRbRoQw5RhLvJhuuhNEVqTZM0bkdTtYqZluqDGn4kYKp3BheWxvYWTES5cCzJbEIGocRaqIZUi6q7aEKSsBxoGh0eSvatc42JUgMLnzHPjbxCBUDHGDN//DgFzKJ1Xcrn6796V+2MVw/ivebRwotlqxZwIBwqNzaWfEQM6XfbNoaVS88jPL2TWtK0VPbuHti7ZrBUyRFwppjEHtFwQofoTOkh3n4Gr3yqGBtk6Ag4kQyqE+Ly0T5Mq44guoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCBBjJ39n3xD+GheaHvRJK88DY/LHA3xlikoAohGj77KBaN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/kris57
+
+==================================================================
